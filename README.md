@@ -4,7 +4,7 @@
 
 ### Overview
 
-To Do: Project Description, with instructions on how to run it.
+To Do: Project Description
 
 ### Technologies Used 
 
